@@ -1,0 +1,197 @@
+#comprartickets{
+color: rgb(5, 236, 5);
+}
+
+nav{
+background-color: rgba(65, 61, 61, 0.989);
+}
+
+#logocodoacodo{
+    height: 5rem;
+    width: 10rem;
+}
+
+#ConfBsAs{
+    color: white;
+}
+
+#LaConferencia{
+    color: white;
+}
+
+#LosOradores{
+    color: rgba(218, 211, 211, 0.774);
+}
+
+#LugarFecha{
+    color: rgba(218, 211, 211, 0.774);
+}
+
+#Conviertete{
+    color: rgba(218, 211, 211, 0.774);
+}
+
+.d-item{
+    height: 40rem;
+}
+.d-img{
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.6);
+}
+
+.carousel-caption{
+    text-align: end;
+}
+
+#boton-orador{
+    background: none;
+    border-color: grey;
+}
+
+#boton-ticket{
+    background-color: green;
+    border-color: green;
+}
+
+#conoce{
+    font-size: 10px;
+}
+
+#oradores{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.card{
+    display: inline-block;
+    text-align: left;
+}
+
+#jslogo{
+    background-color: rgba(208, 208, 63, 0.799);
+    display: inline-block;
+    border-radius: 8px;
+    padding-left: 6px;
+    padding-right: 6px;
+    font-weight: bold;
+}
+
+#reactlogo{
+    background-color: rgba(63, 206, 208, 0.799);
+    display: inline-block;
+    border-radius: 8px;
+    padding-left: 6px;
+    padding-right: 6px;
+    color: white;
+    font-weight: bold;
+}
+
+#negocioslogo{
+    background-color: rgba(125, 128, 128, 0.824);
+    display: inline-block;
+    border-radius: 8px;
+    padding-left: 6px;
+    padding-right: 6px;
+    color: white;
+    font-weight: bold;
+}
+
+#startupslogo{
+    background-color: rgb(255, 30, 10);
+    display: inline-block;
+    border-radius: 8px;
+    padding-left: 6px;
+    padding-right: 6px;
+    color: white;
+    font-weight: bold;
+}
+
+#text-image{
+    background-color: grey;
+}
+
+#bsasoctubre{
+    color: white;
+    font-size: 30px;
+}
+
+#bsastexto{
+    color: white;
+}
+
+#boton-conoce{
+    border-color: white;
+    background-color: grey;
+}
+
+#anotate{
+    font-size: 15px;
+}
+
+#nombre{
+font-size: 80%;
+}
+
+#apellido{
+    font-size: 80%;
+}
+
+#botonform{
+    background-color: rgba(46, 213, 46, 0.673);
+    color: white;
+}
+
+.flex-container{
+    background-color: rgba(42, 42, 102, 0.683);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    color: white;
+    height: 5rem;
+    align-items: center;
+}
+
+.footerlink{
+    color: white;
+    text-decoration: none;
+    text-align: justify;
+}
+
+
+#descuentos{
+    margin-top: 8rem;
+}
+
+.categorias{
+    text-align: center;
+}
+
+#presentarDocumentacion{
+    font-size: x-small;
+}
+
+#estudiante{
+    border-color: rgb(10, 10, 178);
+}
+
+#trainee{
+    border-color: rgb(152, 152, 230);
+}
+
+#junior{
+    border-color: rgb(191, 219, 12);
+}
+
+#valorTicket{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#borrar{
+    background-color: #96c93e;
+}
+
+#resumen{
+    background-color: #96c93e;
+}
